@@ -1,0 +1,9 @@
+hateoas\bookmarks\AccountRepository.class
+hateoas\bookmarks\Application.class
+hateoas\bookmarks\BookmarkResource.class
+hateoas\bookmarks\BookmarkRestController.class
+hateoas\bookmarks\BookmarkControllerAdvice.class
+hateoas\bookmarks\BookmarkRepository.class
+hateoas\bookmarks\Bookmark.class
+hateoas\bookmarks\Account.class
+hateoas\bookmarks\UserNotFoundException.class
